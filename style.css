@@ -46,13 +46,13 @@ body {
   color: var(--bg);
 }
 
-.answers-container button.correct {
+.answers-container .button-correct {
   background-color: var(--green-light);
   border-color: var(--green-light);
   color: var(--bg);
 }
 
-.answers-container button.wrong {
+.answers-container .button-wrong {
   background-color: var(--burgundy-light);
   border-color: var(--burgundy-light);
 }
